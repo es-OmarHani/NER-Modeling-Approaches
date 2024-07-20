@@ -11,9 +11,9 @@ Specifically, it covers:
 
 ## Project Structure
 
-- `traditional_ner/`
+- `ner_traditional/`
   - `crf_model.ipynb`: Jupyter Notebook for CRF-based NER implementation.
-- `deep_learning_ner/`
+- `ner_deep_learning/`
   - `bilstm_model.ipynb`: Jupyter Notebook for BiLSTM-based NER implementation.
 - `saved_models/`: Directory to save trained models.
 - `requirements.txt`: List of required packages for the project.
